@@ -17,4 +17,3 @@ El producto distingue entre fuego, no fuego y no observación. Esta información
 Proveedor de conjuntos de datos: NASA LP DAAC en el USGS EROS Center
 
 Composición y análisis: Alfonso rincón barrera
-Gestión digital: Fredy Alberto Hernández corredor
