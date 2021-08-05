@@ -1,19 +1,15 @@
-# Mask_Incendios_MOD14A1.006_Canada-Siberia_2021
+# Incendios_FIRMS-MODIS_Canada-Alaska-Siberia
 
 <p align="center">
-  <img width="360" src="/Gif_Animacion/Mask_Incendios_MOD14A1.006_Canadá-Siberia_2021.gif">
+  <img width="360" src="/Gif_Animacion/Anual_Firms/Incendios_FIRMS-MODIS_Canada-Alaska-Siberia.gif">
 </p>
 
-Incendios en zona del ártico como indicio del derretimiento del PERMAFROST.  La emisión de CO2 y Metano atrapado en él afecta la contabilización de los presupuestos de carbono en cuanto a la la evaluación de las fuentes y sumideros del ciclo del carbono, y la cantidad acumulada estimada de emisiones de dióxido de carbono a nivel mundial que se considera que limita el AUMENTO de la temperatura mundial en superficie.
+“Conjunto de datos del Sistema de Gestión de Recursos de Información sobre Incendios (FIRMS) contiene el producto de detección de incendios LANCE en forma rasterizada. 
 
-Citación:
+Las ubicaciones de incendios activos casi en tiempo real (NRT) son procesadas por LANCE utilizando el producto estándar MODIS MOD14 / MYD14 Fire and Thermal Anomalies.
 
-MOD14A1.006: Terra Thermal Anomalies & Fire Daily Global 1km.
+Cada ubicación de incendio activa representa el centroide de un píxel de 1 km que el algoritmo marca como que contiene uno o más incendios dentro del píxel. Los datos se rasterizan de la siguiente manera: para cada punto de incendio activo de FIRMS, se define un cuadro delimitador (BB) de 1 km; se identifican los píxeles en la proyección sinusoidal MODIS que se cruzan con el FIRMS BB; si varios FIRMS BB se cruzan con el mismo píxel, se retiene el que tiene mayor confianza; en caso de empate, se conserva el más brillante”.  GEE.
 
-El conjunto de datos MOD14A2 V6 proporciona compuestos de máscara contra incendios de 8 días con una resolución de 1 km. Contiene el valor máximo de las clases de píxeles individuales durante el período de composición. Junto con la máscara contra incendios, también se proporciona una capa de información de calidad asociada.
-
-El producto distingue entre fuego, no fuego y no observación. Esta información se utiliza para monitorear la distribución espacial y temporal de los incendios en diferentes ecosistemas, detectar cambios en la distribución de los incendios e identificar nuevas fronteras de incendios, incendios forestales y cambios en la frecuencia de los incendios o su fuerza relativa.
-
-Proveedor de conjuntos de datos: NASA LP DAAC en el USGS EROS Center
+Proveedor de conjuntos de datos: MODIS Collection 6 NRT Hotspot / Active Fire Detections MCD14DL.  NASA / LANCE / EOSDIS
 
 Composición y análisis: Alfonso rincón barrera
