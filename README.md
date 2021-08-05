@@ -4,6 +4,9 @@
   <img width="360" src="/Gif_Animacion/Anual_Firms/Incendios_FIRMS-MODIS_Canada-Alaska-Siberia.gif">
 </p>
 
+Incendios en zona del ártico como indicio del derretimiento del PERMAFROST. 
+La emisión de CO2 y Metano atrapado en él afecta la contabilización de los presupuestos de carbono en cuanto a la la evaluación de las fuentes y sumideros del ciclo del carbono... y la cantidad acumulada estimada de emisiones de dióxido de carbono a nivel mundial que se considera que limita el AUMENTO de la temperatura mundial en superficie.
+
 “Conjunto de datos del Sistema de Gestión de Recursos de Información sobre Incendios (FIRMS) contiene el producto de detección de incendios LANCE en forma rasterizada. 
 
 Las ubicaciones de incendios activos casi en tiempo real (NRT) son procesadas por LANCE utilizando el producto estándar MODIS MOD14 / MYD14 Fire and Thermal Anomalies.
