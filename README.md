@@ -22,4 +22,5 @@ Cada ubicación de incendio activa representa el centroide de un píxel de 1 km 
 
 Proveedor de conjuntos de datos: MODIS Collection 6 NRT Hotspot / Active Fire Detections MCD14DL.  NASA / LANCE / EOSDIS
 
-Composición y análisis: Alfonso rincón barrera
+Composición y análisis: 
+Alfonso rincón barrera
